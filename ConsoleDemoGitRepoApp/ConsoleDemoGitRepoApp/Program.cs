@@ -10,6 +10,7 @@ namespace ConsoleDemoGitRepoApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is demo GIT repo.");
         }
     }
 }
