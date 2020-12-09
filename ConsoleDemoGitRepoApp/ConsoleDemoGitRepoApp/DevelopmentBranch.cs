@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleDemoGitRepoApp
 {
-    class Program
+    class DevelopmentBranch
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("This is demo GIT repo . Demo Development Branch");
-        }
     }
 }
